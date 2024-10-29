@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All Posts - Daoshu Technology</title>
+    <link>https://scdsskj.github.io/posts/</link>
+    <description>博客：探索、发现、分享 By yxjdssai-[道数术科技]</description>
+    <generator>Hugo 0.136.5 &amp; FixIt v0.3.14-35221731</generator>
+    <language>en</language>
+    <managingEditor>scdsskj@outlook.com (道数术科技)</managingEditor>
+    <webMaster>scdsskj@outlook.com (道数术科技)</webMaster>
+    <lastBuildDate>Mon, 28 Oct 2024 00:57:35 +0800</lastBuildDate>
+    <atom:link href="https://scdsskj.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book</title>
+      <link>https://scdsskj.github.io/posts/2f336c6/</link>
+      <pubDate>Mon, 28 Oct 2024 00:57:35 +0800</pubDate>
+      <guid>https://scdsskj.github.io/posts/2f336c6/</guid>
+      <category domain="https://scdsskj.github.io/categories/draft/">Draft</category>
+      <description>Book</description>
+    </item>
+    <item>
+      <title>道数术科技</title>
+      <link>https://scdsskj.github.io/posts/76fe48e/</link>
+      <pubDate>Sun, 27 Oct 2024 18:40:30 +0800</pubDate><author>scdsskj@outlook.com (道数术科技)</author>
+      <guid>https://scdsskj.github.io/posts/76fe48e/</guid>
+      <category domain="https://scdsskj.github.io/categories/%E9%81%93%E6%95%B0%E6%9C%AF%E7%A7%91%E6%8A%80/">道数术科技</category>
+      <description>&lt;div class=&#34;details admonition abstract open&#34;&gt;&#xA;  &lt;div class=&#34;details-summary admonition-title&#34;&gt;&lt;i class=&#34;icon fa-fw fa-solid fa-clipboard-list&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;Abstract&lt;i class=&#34;details-icon fa-solid fa-angle-right fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/div&gt;&#xA;  &lt;div class=&#34;details-content&#34;&gt;&#xA;    &lt;div class=&#34;admonition-content&#34;&gt;&lt;pre&gt;&lt;code&gt;   道数术科技&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>https://scdsskj.github.io/posts/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>scdsskj@outlook.com (道数术科技)</author>
+      <guid>https://scdsskj.github.io/posts/code/</guid>
+      <description>Code</description>
+    </item>
+  </channel>
+</rss>

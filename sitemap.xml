@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://scdsskj.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2024-10-28T00:57:35+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://scdsskj.github.io/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2024-10-27T18:38:14+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://scdsskj.github.io/ja/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

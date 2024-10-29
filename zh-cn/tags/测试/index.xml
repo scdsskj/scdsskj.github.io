@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>测试 - 标签 - 道数术科技</title>
+    <link>https://scdsskj.github.io/zh-cn/tags/%E6%B5%8B%E8%AF%95/</link>
+    <description>博客：探索、发现、分享 By yxjdssai-[道数术科技]</description>
+    <generator>Hugo 0.136.5 &amp; FixIt v0.3.14-35221731</generator>
+    <language>zh-CN</language>
+    <managingEditor>scdsskj@outlook.com (道数术科技)</managingEditor>
+    <webMaster>scdsskj@outlook.com (道数术科技)</webMaster>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://scdsskj.github.io/zh-cn/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
